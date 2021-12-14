@@ -1,3 +1,21 @@
 {
- "name": "Mohamed"
+  "filters": {
+    "filterGroups": [{
+      "key": "developer",
+      "label": "developer",
+      "svg": "house",
+      "imageURL": "none",
+      "type": "search_panel",
+      "filterItems": [{
+        "key": "parent",
+        "label": "Living Yards",
+        "svg": "none",
+        "imageURL": "https://s3.eu-de.cloud-object-storage.appdomain.cloud//strapi/5_53df33e283",
+        "type": "search_panel_checkbox",
+        "options": [
+          3000
+        ]
+      }]
+    }]
+  }
 }
