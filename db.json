@@ -129,6 +129,34 @@
           }
         ]
       }
+    },
+    {
+      "filterGroup": {
+        "key": "type",
+        "label": "types",
+        "svg": "home",
+        "type": "dropdown-menu-form-group",
+        "filterItems": [
+          {
+            "id": 2201,
+            "label": "Apartment",
+            "type": "checkbox-dropdown",
+            "media": "home",
+            "options": [
+              2000
+            ]
+          },
+          {
+            "id": 3301,
+            "label": "Villa",
+            "type": "checkbox-dropdown",
+            "media": "home",
+            "options": [
+              3000
+            ]
+          }
+        ]
+      }
     }
   ]
 }
