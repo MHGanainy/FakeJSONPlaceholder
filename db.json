@@ -1,112 +1,134 @@
 {
-      filters: [
-        {
-          filterGroup: {
-            key: 'developer',
-            label: 'developer',
-            svg: 'home',
-            type: 'default-form-group',
-            filterItems: [
-              {
-                id: 2000,
-                label: 'Talaat Mostafa',
-                type: 'checkbox-image',
-                options: [2000],
-              },
-              {
-                id: 3000,
-                label: 'Living Yards',
-                type: 'checkbox-image',
-                options: [3000],
-              },
-              {
-                id: 4000,
-                label: 'New Giza',
-                type: 'checkbox-image',
-                options: [4000],
-              },
-            ],
+  "filters": [
+    {
+      "filterGroup": {
+        "key": "developer",
+        "label": "developer",
+        "svg": "home",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 2000,
+            "label": "Talaat Mostafa",
+            "type": "checkbox-image",
+            "options": [
+              2000
+            ]
           },
-        },
-        {
-          filterGroup: {
-            key: 'locations',
-            label: 'locations',
-            svg: 'home',
-            type: 'default-form-group',
-            filterItems: [
-              {
-                id: 5000,
-                label: 'New Cairo',
-                type: 'checkbox-image',
-                options: [5000],
-              },
-              {
-                id: 6000,
-                label: 'Giza',
-                type: 'checkbox-image',
-                options: [6000],
-              },
-              {
-                id: 7000,
-                label: 'Rehab',
-                type: 'checkbox-image',
-                options: [7000],
-              },
-            ],
+          {
+            "id": 3000,
+            "label": "Living Yards",
+            "type": "checkbox-image",
+            "options": [
+              3000
+            ]
           },
-        },
-        {
-          filterGroup: {
-            key: 'compounds',
-            label: 'compounds',
-            svg: 'home',
-            type: 'default-form-group',
-            filterItems: [
-              {
-                id: 5001,
-                label: 'Lavida',
-                type: 'checkbox-image',
-                options: [5001],
-              },
-              {
-                id: 6001,
-                label: 'Madinty',
-                type: 'checkbox-image',
-                options: [6001],
-              },
-              {
-                id: 7001,
-                label: 'Palm Hills',
-                type: 'checkbox-image',
-                options: [7001],
-              },
-            ],
+          {
+            "id": 4000,
+            "label": "New Giza",
+            "type": "checkbox-image",
+            "options": [
+              4000
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "filterGroup": {
+        "key": "locations",
+        "label": "locations",
+        "svg": "home",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 5000,
+            "label": "New Cairo",
+            "type": "checkbox-image",
+            "options": [
+              5000
+            ]
           },
-        },
-        {
-          filterGroup: {
-            key: 'category',
-            label: 'category',
-            svg: 'home',
-            type: 'dropdown-menu-form-group',
-            filterItems: [
-              {
-                id: 2200,
-                label: 'Talaat Mostafa',
-                type: 'checkbox-dropdown',
-                media: 'home',
-                options: [2000],
-              },
-              {
-                id: 3300,
-                label: 'Mortada',
-                type: 'checkbox-dropdown',
-                media: 'home',
-                options: [3000],
-              },
-            ],
+          {
+            "id": 6000,
+            "label": "Giza",
+            "type": "checkbox-image",
+            "options": [
+              6000
+            ]
           },
-        },
-      ],
+          {
+            "id": 7000,
+            "label": "Rehab",
+            "type": "checkbox-image",
+            "options": [
+              7000
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "filterGroup": {
+        "key": "compounds",
+        "label": "compounds",
+        "svg": "home",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 5001,
+            "label": "Lavida",
+            "type": "checkbox-image",
+            "options": [
+              5001
+            ]
+          },
+          {
+            "id": 6001,
+            "label": "Madinty",
+            "type": "checkbox-image",
+            "options": [
+              6001
+            ]
+          },
+          {
+            "id": 7001,
+            "label": "Palm Hills",
+            "type": "checkbox-image",
+            "options": [
+              7001
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "filterGroup": {
+        "key": "category",
+        "label": "category",
+        "svg": "home",
+        "type": "dropdown-menu-form-group",
+        "filterItems": [
+          {
+            "id": 2200,
+            "label": "Talaat Mostafa",
+            "type": "checkbox-dropdown",
+            "media": "home",
+            "options": [
+              2000
+            ]
+          },
+          {
+            "id": 3300,
+            "label": "Mortada",
+            "type": "checkbox-dropdown",
+            "media": "home",
+            "options": [
+              3000
+            ]
+          }
+        ]
+      }
     }
+  ]
+}
