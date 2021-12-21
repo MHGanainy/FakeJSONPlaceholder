@@ -133,7 +133,7 @@
     {
       "filterGroup": {
         "key": "type",
-        "label": "types",
+        "label": "type",
         "svg": "home",
         "type": "dropdown-menu-form-group",
         "filterItems": [
