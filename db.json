@@ -157,6 +157,34 @@
           }
         ]
       }
+    },
+    {
+      "filterGroup": {
+        "key": "unitSize",
+        "label": "Unit Size",
+        "svg": "measure",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 2201,
+            "label": "Apartment",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              2000
+            ]
+          },
+          {
+            "id": 3301,
+            "label": "120",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              3000
+            ]
+          }
+        ]
+      }
     }
   ]
 }
