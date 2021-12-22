@@ -369,6 +369,26 @@
           }
         ]
       }
+    },
+    {
+      "filterGroup": {
+        "key": "priceRange",
+        "label": "Price Range",
+        "svg": "measure",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 12201,
+            "label": "",
+            "type": "range-slider",
+            "media": "home",
+            "options": [
+              500000,
+              20000000
+            ]
+          }
+        ]
+      }
     }
   ]
 }
