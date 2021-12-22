@@ -132,25 +132,6 @@
     },
     {
       "filterGroup": {
-        "key": "unitSize",
-        "label": "Unit Size",
-        "svg": "measure",
-        "type": "default-form-group",
-        "filterItems": [
-          {
-            "id": 12201,
-            "label": "",
-            "type": "range-slider",
-            "media": "home",
-            "options": [
-              2000,5000
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "filterGroup": {
         "key": "type",
         "label": "type",
         "svg": "home",
@@ -172,6 +153,90 @@
             "media": "home",
             "options": [
               3000
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "filterGroup": {
+        "key": "unitSize",
+        "label": "Unit Size",
+        "svg": "measure",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 12201,
+            "label": "",
+            "type": "range-slider",
+            "media": "home",
+            "options": [
+              50,
+              200
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "filterGroup": {
+        "key": "bedrooms",
+        "label": "bedrooms",
+        "svg": "measure",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 12201,
+            "label": "",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              1
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              2
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              3
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              4
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              5
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              6
             ]
           }
         ]
