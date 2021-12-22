@@ -389,6 +389,43 @@
           }
         ]
       }
+    },
+    {
+      "filterGroup": {
+        "key": "finishing",
+        "label": "finishing",
+        "svg": "measure",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 12201,
+            "label": "Semi-Finished",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              "semi"
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "Finished",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              "finish"
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "premium finished",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              "premium"
+            ]
+          }
+        ]
+      }
     }
   ]
 }
