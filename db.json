@@ -241,6 +241,70 @@
           }
         ]
       }
+    },
+    {
+      "filterGroup": {
+        "key": "bathrooms",
+        "label": "bathrooms",
+        "svg": "measure",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 12201,
+            "label": "1",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              1
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "2",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              2
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "3",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              3
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "4",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              4
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "5",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              5
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "6",
+            "type": "checkbox-nocheckmark",
+            "media": "home",
+            "options": [
+              6
+            ]
+          }
+        ]
+      }
     }
   ]
 }
