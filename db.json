@@ -426,6 +426,46 @@
           }
         ]
       }
+    },
+    {
+      "filterGroup": {
+        "key": "reservationAmount",
+        "label": "Reservation Amount",
+        "svg": "measure",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 12201,
+            "label": "",
+            "type": "range-slider",
+            "media": "home",
+            "options": [
+              10000,
+              5000000
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "filterGroup": {
+        "key": "monthInstallment",
+        "label": "Monthly Installments",
+        "svg": "measure",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 12201,
+            "label": "",
+            "type": "range-slider",
+            "media": "home",
+            "options": [
+              5000,
+              50000
+            ]
+          }
+        ]
+      }
     }
   ]
 }
