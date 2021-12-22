@@ -399,7 +399,7 @@
         "filterItems": [
           {
             "id": 12201,
-            "label": "Semi-Finished",
+            "label": "Semi",
             "type": "checkbox-checkmark",
             "media": "home",
             "options": [
@@ -417,7 +417,7 @@
           },
           {
             "id": 12201,
-            "label": "premium finished",
+            "label": "Premium",
             "type": "checkbox-checkmark",
             "media": "home",
             "options": [
