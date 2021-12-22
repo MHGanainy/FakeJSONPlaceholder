@@ -305,6 +305,70 @@
           }
         ]
       }
+    },
+    {
+      "filterGroup": {
+        "key": "floors",
+        "label": "floors",
+        "svg": "measure",
+        "type": "default-form-group",
+        "filterItems": [
+          {
+            "id": 12201,
+            "label": "Ground",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              "GF"
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "2",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              2
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "3",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              3
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "4",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              4
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "5",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              5
+            ]
+          },
+          {
+            "id": 12201,
+            "label": "6",
+            "type": "checkbox-checkmark",
+            "media": "home",
+            "options": [
+              6
+            ]
+          }
+        ]
+      }
     }
   ]
 }
